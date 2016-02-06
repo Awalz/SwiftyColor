@@ -19,7 +19,7 @@ class ViewController: UIViewController {
     }
     
     @IBAction func button3(sender: AnyObject) {
-        self.view.backgroundColor = UIColor(hexString: "888")
+        self.view.backgroundColor = UIColor(hexString: "8888")
     }
     override func viewDidLoad() {
         super.viewDidLoad()
